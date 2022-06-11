@@ -9,11 +9,6 @@
 - 🤓 If you wish to collaborate on any project, please reach out!
 - 📫 You can reach me here or on my [Linkedin](https://www.linkedin.com/in/anishkakaiya/) profile
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
