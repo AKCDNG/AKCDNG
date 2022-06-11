@@ -35,24 +35,7 @@ style="padding-right:10px;" />
 - [“It does not matter how slowly you go so long as you do not stop.” — Confucius](https://medium.com/@anishkakaiya/it-does-not-matter-how-slowly-you-go-so-long-as-you-do-not-stop-confucius-f37b8ece0151?source=rss-b1ddc7d1a516------2)
 - [“I’m a hustler baby; I sell water to a well” — Jay Z](https://medium.com/@anishkakaiya/im-a-hustler-baby-i-sell-water-to-a-well-jay-z-904b5e98b32?source=rss-b1ddc7d1a516------2)
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<img align="left" alt="AKCDNG Github Stats" src="https://github-readme-stats.vercel.app/api?username=AKCDNG&show_icons=true&hide_border=true"/>
