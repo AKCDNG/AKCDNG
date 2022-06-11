@@ -42,4 +42,4 @@ style="padding-right:10px;" />
 
 ---
 
-<img align="left" alt="AKCDNG Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKCDNG"/>
+<img align="right" alt="AKCDNG Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKCDNG"/>
