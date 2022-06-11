@@ -30,6 +30,10 @@ style="padding-right:10px;" />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Resilience Is So Important In Learning How To Code](https://medium.com/@anishkakaiya/why-resilience-is-so-important-in-learning-how-to-code-48bfe1ec63ff?source=rss-b1ddc7d1a516------2)
+- [“No problem can withstand the assault of sustained thinking.” — Voltaire](https://medium.com/@anishkakaiya/no-problem-can-withstand-the-assault-of-sustained-thinking-voltaire-9f7abcbec32b?source=rss-b1ddc7d1a516------2)
+- [“It does not matter how slowly you go so long as you do not stop.” — Confucius](https://medium.com/@anishkakaiya/it-does-not-matter-how-slowly-you-go-so-long-as-you-do-not-stop-confucius-f37b8ece0151?source=rss-b1ddc7d1a516------2)
+- [“I’m a hustler baby; I sell water to a well” — Jay Z](https://medium.com/@anishkakaiya/im-a-hustler-baby-i-sell-water-to-a-well-jay-z-904b5e98b32?source=rss-b1ddc7d1a516------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
