@@ -40,4 +40,4 @@ style="padding-right:10px;" />
 
 <img align="left" alt="AKCDNG Github Stats" src="https://github-readme-stats.vercel.app/api?username=AKCDNG&custom_title=Anish%27s%20GitHub%20Stats&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img align="right" alt="AKCDNG Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKCDNG"/>
+<img align="right" alt="AKCDNG Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKCDNG&layout=compact"/>
