@@ -7,7 +7,7 @@
 - 👯 I enjoy working together with other people and being challenged on new projects.
 - 💻 I look forward to land my first job as a junior developer.
 - 🤓 If you wish to collaborate on any project, please reach out!
-- 📫 You can reach me here or on my [Linkedin](https://www.linkedin.com/in/anishkakaiya/) profile
+- 📫 You can reach me here or on my [Linkedin](https://www.linkedin.com/in/anishkakaiya/) profile.
 
 ### Languages and Tools:
 
@@ -38,4 +38,4 @@ style="padding-right:10px;" />
 
 ---
 
-<img align="left" alt="AKCDNG Github Stats" src="https://github-readme-stats.vercel.app/api?username=AKCDNG&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img align="left" alt="AKCDNG Github Stats" src="https://github-readme-stats.vercel.app/api?username=AKCDNG&custom_title=Anish%27s%20GitHub%20Stats&show_icons=true&hide_border=true&theme=tokyonight"/>
