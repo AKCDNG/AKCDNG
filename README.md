@@ -4,6 +4,7 @@
 
 - 🔄 I’m a career switcher who used to work in Apple Retail.
 - 🌱 I am currently studying Software Development at Makers Academy.
+- ✅ I cosnsistently write code using Test Driven Development.
 - 👯 I enjoy working together with other people and being challenged on new projects.
 - 💻 I look forward to land my first job as a junior developer.
 - 🤓 If you wish to collaborate on any project, please reach out!
