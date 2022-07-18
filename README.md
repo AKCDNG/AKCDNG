@@ -9,7 +9,7 @@
 - 💻 I look forward to land my first job as a junior developer.
 - 🤓 If you wish to collaborate on any project, please reach out!
 - 📫 You can reach me here or on my [Linkedin](https://www.linkedin.com/in/anishkakaiya/) profile.
-- 📨 Feel free to take a look at my [GitHub CV](https://github.com/AKCDNG/AKCDNG/CV)!
+- 📨 Feel free to take a look at my [GitHub CV](https://github.com/AKCDNG/CV)!
 
 ### Languages and Tools:
 
