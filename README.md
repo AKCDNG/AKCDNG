@@ -40,11 +40,9 @@ style="padding-right:10px;" />
 
 ---
 
-Want to hear a joke?🤪
+Want to hear a joke?🤪 (Update's daily):
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-
-(This updates everyday - check back tomorrow for a new joke!)
 ---
 
 <img align="left" alt="AKCDNG Github Stats" src="https://github-readme-stats.vercel.app/api?username=AKCDNG&custom_title=Anish%27s%20GitHub%20Stats&show_icons=true&hide_border=true&theme=tokyonight"/>
