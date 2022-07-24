@@ -41,6 +41,7 @@ style="padding-right:10px;" />
 ---
 
 Want to hear a joke?🤪
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 ---
 
