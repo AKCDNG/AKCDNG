@@ -1,6 +1,6 @@
 # Hi there, I'm Anish 👋 
 
-## I am currently a student at Makers Academy.
+## I am a graduate at Makers Academy.
 
 - 🔄 I’m a career switcher who used to work in Apple Retail.
 - 🌱 I am a graduate of Makers Academy (April '22 intake).
