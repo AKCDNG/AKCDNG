@@ -1,5 +1,6 @@
 # Hi there, I'm Anish 👋 
 
+- 😁 I am currently a Junior Software Developer for [Stereo Creative](https://stereocreative.com/)
 - 🔄 I’m a career switcher who used to work in Apple Retail.
 - 🌱 I am a graduate of Makers Academy (April '22 intake).
 - ✅ I consistently write code using Test Driven Development.
@@ -38,7 +39,7 @@ style="padding-right:10px;" />
 
 ---
 
-Want to hear a joke?🤪
+Want to hear a joke? 🤪
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 ---
