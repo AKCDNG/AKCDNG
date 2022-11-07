@@ -31,6 +31,7 @@ style="padding-right:10px;" />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Core Idea Of Docker — Explained Simply](https://medium.com/@anishkakaiya/the-core-idea-of-docker-explained-simply-b50d0494253d?source=rss-b1ddc7d1a516------2)
 - [Why Resilience Is So Important In Learning How To Code](https://medium.com/@anishkakaiya/why-resilience-is-so-important-in-learning-how-to-code-48bfe1ec63ff?source=rss-b1ddc7d1a516------2)
 - [“No problem can withstand the assault of sustained thinking.” — Voltaire](https://medium.com/@anishkakaiya/no-problem-can-withstand-the-assault-of-sustained-thinking-voltaire-9f7abcbec32b?source=rss-b1ddc7d1a516------2)
 - [“It does not matter how slowly you go so long as you do not stop.” — Confucius](https://medium.com/@anishkakaiya/it-does-not-matter-how-slowly-you-go-so-long-as-you-do-not-stop-confucius-f37b8ece0151?source=rss-b1ddc7d1a516------2)
