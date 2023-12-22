@@ -31,7 +31,7 @@ style="padding-right:10px;" />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [4 Best Engineering Principles I’ve Come Across As A Software Engineer](https://medium.com/@anishkakaiya/4-best-engineering-principles-ive-come-across-as-a-software-engineer-2afd504da98b?source=rss-b1ddc7d1a516------2)
+- [The 4 Best Engineering Principles I’ve Come Across As A Software Engineer](https://medium.com/@anishkakaiya/4-best-engineering-principles-ive-come-across-as-a-software-engineer-2afd504da98b?source=rss-b1ddc7d1a516------2)
 - [Everything Non-Technical I’ve Learned 1 Year Into My Software Engineering Career](https://medium.com/@anishkakaiya/everything-non-technical-ive-learned-1-year-into-my-software-engineering-career-146562a23db2?source=rss-b1ddc7d1a516------2)
 - [My First 3 Months As A Junior Software Engineer &lpar;As A Bootcamp Grad&rpar; @ Stereo](https://medium.com/@anishkakaiya/my-first-3-months-as-a-junior-software-engineer-as-a-bootcamp-grad-stereo-4a59e55e8c8b?source=rss-b1ddc7d1a516------2)
 - [The Core Idea Of Docker — Explained Simply](https://medium.com/@anishkakaiya/the-core-idea-of-docker-explained-simply-b50d0494253d?source=rss-b1ddc7d1a516------2)
