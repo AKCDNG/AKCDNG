@@ -5,10 +5,9 @@
 - 🌱 I am a graduate of Makers Academy (April '22 intake).
 - ✅ I consistently write code using Test Driven Development.
 - 🤝 I enjoy working together with other people and being challenged on new projects.
-- 💻 I look forward to landing my first job as a junior developer.
+- 💻 I love learning, carry a growth mindset and I'm currently reading into distributed systems.
 - 🤓 If you wish to collaborate on any project, please reach out!
 - 📫 You can reach me here or on my [LinkedIn](https://www.linkedin.com/in/anishkakaiya/) profile.
-- 📨 Feel free to take a look at my [GitHub CV](https://github.com/AKCDNG/CV)!
 
 ### Languages and Tools:
 
