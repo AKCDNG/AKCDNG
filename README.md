@@ -1,14 +1,5 @@
 # Hi there, I'm Anish 👋 
 
-- 😁 I am currently a Junior Software Developer for [Stereo Creative](https://stereocreative.com/).
-- 🔄 I’m a career switcher who used to work in Apple Retail.
-- 🌱 I am a graduate of Makers Academy (April '22 intake).
-- ✅ I consistently write code using Test Driven Development.
-- 🤝 I enjoy working together with other people and being challenged on new projects.
-- 💻 I love learning, carry a growth mindset and I'm currently reading into distributed systems.
-- 🤓 If you wish to collaborate on any project, please reach out!
-- 📫 You can reach me here or on my [LinkedIn](https://www.linkedin.com/in/anishkakaiya/) profile.
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
